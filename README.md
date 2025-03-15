@@ -1,4 +1,3 @@
-![Estácio de Sá](https://imagensfree.com.br/logotipo-estacio-png/#gsc.tab=0)
 - **Desenvolvimento Full Stack**
 - Instituiçao: Estácio de Sá
 - Aluno: Anderson Rech
